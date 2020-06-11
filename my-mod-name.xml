@@ -1,0 +1,6 @@
+<Atlas>
+	<Texture filename="my-mod-name.tex" />
+	<Elements>
+		<Element name="my-mod-name.tex" u1="0.001953125" u2="0.998046875" v1="0.001953125" v2="0.998046875" />
+	</Elements>
+</Atlas>
